@@ -15,7 +15,7 @@
 | **L6** | `L6/` | **金融分析**多智能体协作（数据、策略、交易、风控） | 智能体之间的协作与任务传递；分层/流水线式 Crew 设计 | `L6_collaboration_financial_analysis.ipynb` |
 | **L7** | `L7/` | **求职申请**定制（岗位调研、画像、简历策略、面试准备） | 综合实战：构建完整多智能体系统 | `L7_job_application_crew.ipynb` |
 
-> *_en.ipynb为原版代码，.ipynb为
+> *_en.ipynb为原版代码，.ipynb为使用阿里云api-key和百度网页搜索版代码
 
 ## 各课智能体角色（摘要）
 
