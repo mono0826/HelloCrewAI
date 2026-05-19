@@ -40,3 +40,5 @@ uv pip install crewai crewai[tools]
 注：*_en.ipynb使用的是google浏览器，这里做了更改，使用baidu搜索[获取apiKey](https://console.bce.baidu.com/qianfan/ais/console/apiKey)
 
 本地运行 Notebook 前，请在对应课时的 `.env` 中配置 OpenAI API Key；部分课时还需 baidu 第三方 API Key。
+
+[Jupyter源代码](https://s172-29-66-123p8888.lab-aws-production.deeplearning.ai/tree)
